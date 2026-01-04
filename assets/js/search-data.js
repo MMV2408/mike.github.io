@@ -451,9 +451,9 @@ ninja.data = [{
             },},{id: "news-started-this-page-just-the-beginning",
           title: 'Started this page. Just the beginning.',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-design-1",
+          title: 'design 1',
+          description: "first project at school",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-project-2",
